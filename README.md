@@ -4,12 +4,14 @@
 Project landing page
 ## About
 
-This is a project built to understand and showcase my CSS skills. This is a simple static project landing project where I try to  introduce myself. 
+This is a project built to understand and showcase my CSS skills. This is a simple static project landing project where I try to  introduce myself. This is a small project dedicated to johnwick one of my favourite action characters.
 ## Tech Stack
 
 **Languages:** HTML &CSS
 
+## Credits
 
+**Imdb** for john wick profiles
 
 ## Authors
 
