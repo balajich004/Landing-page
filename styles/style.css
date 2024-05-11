@@ -40,7 +40,7 @@ a{
 .logo{
     font-size: 24px;
     font-weight: bold;
-    color: #F9FAF8;
+    color: rgb(253,45,81);
 }
 .links ul{
     display: flex;
@@ -86,7 +86,7 @@ a{
     margin-bottom: 24px;
 }
 .second-imgs img{
-    height:220px;
+    height:300px;
     width:220px;
     border:5px solid #3882F6;
     border-radius: 8px;
@@ -102,4 +102,69 @@ a{
     margin-top: 10px;
     font-size: 15px;
     color: lightslategray;
+}
+.third-part{
+    padding:16px 150px 150px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:400px;
+    flex-direction: column;
+    flex-shrink: 0;
+    flex-wrap: nowrap;
+}
+.quote{
+    font-size: 36px;
+    margin-top: 50px;
+    font-style: italic;
+    color: #1F2937;
+}
+.author{
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 28px;
+    color: #1F2937;
+}
+.fourth-part{
+    display:flex;
+    justify-content: center;
+    align-items:center ;
+    padding:108px;
+}
+.big-blue-container{
+    display:flex;
+    background-color: #3882F6;
+    justify-content: space-between;
+    gap:164px;
+    padding:40px 80px;
+    border-radius: 4px;
+}
+.action-header{
+    font-weight: bold;
+    color: #F9FAF8;
+}
+.action-sub{
+    color: #F9FAF8;
+    font-size: 15px;
+}
+.signup-2 button{
+    background-color: #3882F6;
+    padding:6px 24px;
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+    border-radius: 8px;
+}
+.footer{
+    marigin-bottom:0;
+    height:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 32px;
+}
+.footer a{
+    color: rgb(34,193,195);
 }

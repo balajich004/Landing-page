@@ -13,6 +13,10 @@ This is a project built to understand and showcase my CSS skills. This is a simp
 
 **Imdb** for john wick profiles
 
+## Note
+
+This is a static web page ideally made for screen's of size over 12 inches and above it is not responsive for smaller screens an it is just a beginner level project 😉.
+
 ## Authors
 
 - [@balajich004](https://www.github.com/balajich004)
