@@ -11,7 +11,7 @@ This is a project built to understand and showcase my CSS skills. This is a simp
 
 ## Credits
 
-**Imdb** for john wick profiles
+**Imdb** for john wick profiles and images.
 
 ## Note
 
