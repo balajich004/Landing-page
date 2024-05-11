@@ -15,7 +15,7 @@ This is a project built to understand and showcase my CSS skills. This is a simp
 
 ## Note
 
-This is a static web page ideally made for screen's of size over 12 inches and above it is not responsive for smaller screens an it is just a beginner level project 😉.
+This is a static web page ideally made for screen's of size over 12 inches and above,it is not responsive for smaller screens as it is just a beginner level project 😉.
 
 ## Authors
 
