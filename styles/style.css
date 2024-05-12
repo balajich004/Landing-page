@@ -113,6 +113,7 @@ a{
     flex-direction: column;
     flex-shrink: 0;
     flex-wrap: nowrap;
+    overflow: hidden;
 }
 .quote{
     font-size: 36px;
